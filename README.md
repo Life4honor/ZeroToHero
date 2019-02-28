@@ -2,4 +2,4 @@
 
 ## Algorithm with Python
 
-jenkins build trigger test
+jenkins build trigger test2
